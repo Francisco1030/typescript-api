@@ -9,8 +9,8 @@
 
 <h4>Tecnologias</h4>
 <ul>
-  <li> <img src="" alt="php" height="22"> <strong>   NODEJS </strong> </li>
-  <li> <img src="" alt="js" height="22"> <strong>  TS</strong> </li>
+  <li> <img src="" alt="nodejs" height="22"> <strong>   NODEJS </strong> </li>
+  <li> <img src="" alt="ts" height="22"> <strong>  TS</strong> </li>
 </ul>
 
 
